@@ -34,3 +34,13 @@ To ensure the encoder works as expected, a suite of unit tests is provided. Run 
 ```bash
 ./run_tests.sh
 ```
+
+### Profile Standards
+This project is maintained to a high standard as it serves as a showcase on my professional profile. It is designed to be:
+
+- \**Efficient**: Ensures the quickest compression times possible.
+- \**Reliable**: Produces consistent outputs every time.
+- \**Scalable**: Handles small to very large files without degradation in performance.
+- \**Readable**: Code is well-commented and follows clean code principles for maintainability.
+
+---
